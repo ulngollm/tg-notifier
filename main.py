@@ -49,4 +49,3 @@ async def check_unread():
 loop = asyncio.get_event_loop()
 loop.create_task(main())
 loop.run_forever()
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
